@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'remotipart', github: 'mshibuya/remotipart'
 gem 'rails_admin', github: 'sferik/rails_admin'
-gem 'rails_admin_rollincode'
+gem 'rails_admin_rollincode', '~> 1.0'
 gem "devise"
 
 # Reduces boot times through caching; required in config/boot.rb
